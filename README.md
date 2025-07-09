@@ -19,7 +19,9 @@
 </table>
 </section>
 </header> 
+
 <br>
+
 # 💫 About Me:
 🔭 I’m currently studying at The University of Melbourne<br>🌱 I’m currently learning Master of Software Engineering (Artificial Intelligence)<br>👯 I’m looking to collaborate on any web development projects.
 
