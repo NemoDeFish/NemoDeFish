@@ -31,6 +31,10 @@
 **Tech:** React, Python, MongoDB, MySQL <br>
 Full-stack system that syncs loyalty points from a POS (MySQL) to MongoDB in real-time with REST APIs and a React front-end.
 
+**[Vision Transformer Optimization using Two-Phase Switching Optimization Strategy](https://github.com/NemoDeFish/vit-two-phase-switching-opt)** <br>
+**Tech:** PyTorch, TorchVision, timm, TensorBoard, CUDA <br>
+Implements and benchmarks the SDAGD two-phase optimizer for training Vision Transformers on CIFAR-10, comparing its performance to Adam with extensive experimentation.
+
 **[Concurrent Mines Simulation](https://github.com/NemoDeFish/concurrent-mines-simulation)** <br>
 **Tech:** Java, Concurrency, Multithreading <br>
 Simulated multi-agent mining system using Java concurrency primitives, focusing on thread synchronization and resource management.
@@ -43,7 +47,7 @@ Completed Full Stack Open Parts 0–13, building and deploying full-stack apps w
 **Tech:** Python, AI, Heuristics Optimization, Agent-based Models <br>
 Developed a Tetress AI using Monte Carlo Tree Search to optimize move selection and demonstrate advanced planning and heuristics.
 
-**[HTTP Proxy Server](https://github.com/your-username/http-proxy-server)** <br>
+**[HTTP Proxy Server](https://github.com/NemoDeFish/web-proxy)** <br>
 **Tech:** C <br>
 A lightweight HTTP proxy server supporting caching, header manipulation, and response validation, with automated tests for functionality, memory safety, and caching compliance.
 
